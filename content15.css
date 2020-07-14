@@ -1,0 +1,30 @@
+#content{
+   height: 100%;
+   /* border: 2px solid black; */
+ 
+}
+.coronaheading{
+   /* width: 500px; */
+   border: 2px solid blue;
+   background-color: rgb(170, 213, 230);
+   /* margin-top: 200px; */
+}
+#coronacontent{
+   height: 100%;
+   width: 100%;
+   border: 2px solid black;
+   font-family: cursive;
+}
+.imagepara{
+   width: 90%;
+   height: 400px;
+   padding-left: 5%;
+}
+.request{
+   color: green;
+   font-size: 50px;
+   font-weight: bolder;
+}
+
+
+
