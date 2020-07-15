@@ -1,0 +1,125 @@
+@media(min-width:992px){
+    
+    .heading{
+        height:300px;
+    }  
+    .nameheading{
+        font-size: 50px;
+    }
+    .name{
+        font-size: 25px;
+    }
+    #img17{
+        width:50%;
+        height:300px;
+         margin-left: 23%;
+     }
+     .imgmodi17{
+        width:40%;
+        height:350px;
+         margin-left: 23%;
+     }
+     .imgmodi2017{
+        width:40%;
+        height:500px;
+         margin-left: 23%;
+     }
+}
+@media(min-width:756px) and (max-width:991px)
+{
+.heading{
+   height:350px;
+}
+.nameheading{
+    font-size: 50px;
+}
+.governmentlogo{
+   width:20%;
+    height: 50px;
+    margin-right: 25px;
+}
+#img17{
+    width:70%;
+    height:250px;
+     margin-left: 15%;
+ }
+ .imgmodi17{
+    width:70%;
+    height:250px;
+     margin-left: 15%;
+ }
+ .imgmodi2017{
+    width:60%;
+    height:300px;
+     margin-left: 15%;
+}
+}
+@media(min-width:515px) and (max-width:755px){
+    .heading{
+        height: 400px;
+    }
+    .nameheading{
+        font-size: 50px;
+    }
+    #img17{
+        width:70%;
+        height:200px;
+         margin-left: 14%;
+     }
+     .imgmodi17{
+        width:70%;
+        height:200px;
+         margin-left: 14%;
+     }
+     .imgmodi2017{
+        width:60%;
+        height:200px;
+         margin-left: 14%;
+     }
+     #introheading17{
+        margin-top: 70px;
+    }
+}
+@media(max-width:514px) and (min-width:361px){
+    .nameheading{
+        font-size: 50px;
+    }
+    #img17{
+        width:80%;
+        height:200px;
+         margin-left: 9%;
+     }
+     .imgmodi17{
+        width:80%;
+        height:200px;
+         margin-left: 9%;
+     }
+     .imgmodi2017{
+        width:80%;
+        height:200px;
+         margin-left: 9%;
+     }
+     #introheading17{
+         margin-top: 70px;
+     }
+}
+@media(max-width:360px){
+    .nameheading{
+        font-size: 35px;
+    }
+    #img17{
+       width:80%;
+       height:200px;
+        margin-left: 9%;
+    }
+    .imgmodi17{
+        width:80%;
+        height:200px;
+         margin-left: 9%;
+     }
+     .imgmodi2017{
+        width:80%;
+        height:200px;
+         margin-left: 9%;
+     }
+    }
