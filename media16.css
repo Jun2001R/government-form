@@ -31,10 +31,16 @@
     .nameheading{
         font-size: 50px;
     }
+    #content16{
+        margin-top: 70px;
+    }
 }
 @media(max-width:514px) and (min-width:361px){
     .nameheading{
         font-size: 50px;
+    }
+    #content16{
+        margin-top: 70px;
     }
 }
 @media(max-width:360px){
