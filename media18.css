@@ -61,6 +61,9 @@
         height:300px;
          margin-left: 14%;
      }
+    #content18{
+        margin-top: 65px;
+     }
 }
 @media(max-width:514px) and (min-width:361px){
     .nameheading{
@@ -75,6 +78,9 @@
         width:80%;
         height:250px;
          margin-left: 9%;
+     }
+    #content18{
+        margin-top: 65px;
      }
 }
 @media(max-width:360px){
