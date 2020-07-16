@@ -1,0 +1,9 @@
+#content20{
+    width: 100%;
+    height:100%;
+    font-size: 20px;
+    font-family: cursive;
+    border: 2px solid black;
+    background-color: rgb(238, 174, 206);
+    padding-left: 10px;
+}
